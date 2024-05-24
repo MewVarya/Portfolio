@@ -172,15 +172,4 @@ bottom: 480px;
 .contacts{
  display: flex;
  justify-content: center;
-
-}
-
-.cont_h{
-    position: absolute;
-}
-
-div a{
-color: white;
-text-align:center;
-margin-top:15px;
 }
