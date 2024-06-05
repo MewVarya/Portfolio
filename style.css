@@ -173,3 +173,10 @@ bottom: 480px;
  display: flex;
  justify-content: center;
 }
+
+a{
+
+    color:white;
+    text-decoration:none;
+    text-align:center;
+}
